@@ -1,6 +1,6 @@
 # General notes regarding reproducibility study: ECIR'24 Sparse Cross-Encoder
 
-This markdown outlines notes regarding contributions, environment configurations, patches, and data dumps. The reproducibility study is explained in detail in [this paper](DSAIT-2526-4050IR-Final_paper.pdf)
+This markdown outlines notes regarding contributions, environment configurations, patches, and data dumps. The reproducibility study is explained in detail in [this paper](DSAIT-2526-4050IR-Final_paper.pdf). We've only reproduced one model, which you can find on [Hugging Face](https://huggingface.co/YoanPopov/reproduced-ecir24-sparse-512)
 
 ## 0. Additions to the Original Repository
 
