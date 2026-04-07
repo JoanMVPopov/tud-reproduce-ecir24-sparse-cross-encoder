@@ -294,7 +294,7 @@ class SparseCrossEncoderDataModule(pl.LightningDataModule):
         # remove [CLS] token
         query_input_ids = [torch.tensor(input_ids[1:]) for input_ids in query_input_ids]
         max_query_length = max(tensor.shape[0] for tensor in query_input_ids)
-        max_doc_length = self.max_length - max_query_length
+        max_doc_length = self.max_length - max_query_length - 1
         doc_input_ids = []
         for batch_dict in batch:
             batch_doc_input_ids = self.tokenizer(

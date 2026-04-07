@@ -1,0 +1,148 @@
+Model Name,Dataset Name,Layer,nDCG@10,Kendall τ
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Embeddings,0.293,0.000
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 1,0.176,-0.037
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 2,0.197,0.014
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 3,0.169,-0.049
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 4,0.294,0.170
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 5,0.712,0.713
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 6,0.733,1.000
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Embeddings,0.208,0.000
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 1,0.112,0.009
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 2,0.123,-0.078
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 3,0.089,-0.058
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 4,0.241,0.172
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 5,0.580,0.705
+Reproduced Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 6,0.666,1.000
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Embeddings,0.223,0.000
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 1,0.154,-0.075
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 2,0.211,-0.028
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 3,0.148,-0.065
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 4,0.217,0.104
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 5,0.563,0.689
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 6,0.640,1.000
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Embeddings,0.138,0.000
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 1,0.099,-0.066
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 2,0.125,0.002
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 3,0.107,-0.031
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 4,0.144,0.102
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 5,0.410,0.657
+Reproduced Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 6,0.485,1.000
+Reproduced Sparse 512 w=4,beir/hotpotqa/test,Embeddings,0.057,0.000
+Reproduced Sparse 512 w=4,beir/hotpotqa/test,Layer 1,0.048,0.068
+Reproduced Sparse 512 w=4,beir/hotpotqa/test,Layer 2,0.041,-0.132
+Reproduced Sparse 512 w=4,beir/hotpotqa/test,Layer 3,0.036,-0.078
+Reproduced Sparse 512 w=4,beir/hotpotqa/test,Layer 4,0.274,0.177
+Reproduced Sparse 512 w=4,beir/hotpotqa/test,Layer 5,0.655,0.667
+Reproduced Sparse 512 w=4,beir/hotpotqa/test,Layer 6,0.692,1.000
+Reproduced Sparse 512 w=4,beir/nq,Embeddings,0.040,0.000
+Reproduced Sparse 512 w=4,beir/nq,Layer 1,0.036,0.021
+Reproduced Sparse 512 w=4,beir/nq,Layer 2,0.019,-0.104
+Reproduced Sparse 512 w=4,beir/nq,Layer 3,0.016,-0.076
+Reproduced Sparse 512 w=4,beir/nq,Layer 4,0.100,0.109
+Reproduced Sparse 512 w=4,beir/nq,Layer 5,0.437,0.700
+Reproduced Sparse 512 w=4,beir/nq,Layer 6,0.506,1.000
+Reproduced Sparse 512 w=4,beir/dbpedia-entity/test,Embeddings,0.073,0.000
+Reproduced Sparse 512 w=4,beir/dbpedia-entity/test,Layer 1,0.077,-0.006
+Reproduced Sparse 512 w=4,beir/dbpedia-entity/test,Layer 2,0.075,-0.032
+Reproduced Sparse 512 w=4,beir/dbpedia-entity/test,Layer 3,0.058,-0.017
+Reproduced Sparse 512 w=4,beir/dbpedia-entity/test,Layer 4,0.136,0.133
+Reproduced Sparse 512 w=4,beir/dbpedia-entity/test,Layer 5,0.401,0.673
+Reproduced Sparse 512 w=4,beir/dbpedia-entity/test,Layer 6,0.419,1.000
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Embeddings,0.293,0.000
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 1,0.174,-0.013
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 2,0.220,0.019
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 3,0.190,-0.039
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 4,0.400,0.284
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 5,0.709,0.707
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2019/judged,Layer 6,0.725,1.000
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Embeddings,0.208,0.000
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 1,0.126,0.034
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 2,0.125,-0.073
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 3,0.092,-0.062
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 4,0.370,0.309
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 5,0.618,0.721
+Author Sparse 512 w=4,msmarco-passage/trec-dl-2020/judged,Layer 6,0.660,1.000
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Embeddings,0.223,0.000
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 1,0.175,-0.057
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 2,0.202,-0.021
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 3,0.162,-0.059
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 4,0.318,0.241
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 5,0.573,0.679
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2021/judged,Layer 6,0.644,1.000
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Embeddings,0.138,0.000
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 1,0.087,-0.046
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 2,0.126,0.003
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 3,0.118,-0.009
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 4,0.217,0.217
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 5,0.402,0.659
+Author Sparse 512 w=4,msmarco-passage-v2/trec-dl-2022/judged,Layer 6,0.482,1.000
+Author Sparse 512 w=4,beir/hotpotqa/test,Embeddings,0.057,0.000
+Author Sparse 512 w=4,beir/hotpotqa/test,Layer 1,0.049,0.098
+Author Sparse 512 w=4,beir/hotpotqa/test,Layer 2,0.041,-0.140
+Author Sparse 512 w=4,beir/hotpotqa/test,Layer 3,0.038,-0.102
+Author Sparse 512 w=4,beir/hotpotqa/test,Layer 4,0.481,0.358
+Author Sparse 512 w=4,beir/hotpotqa/test,Layer 5,0.692,0.706
+Author Sparse 512 w=4,beir/hotpotqa/test,Layer 6,0.688,1.000
+Author Sparse 512 w=4,beir/nq,Embeddings,0.040,0.000
+Author Sparse 512 w=4,beir/nq,Layer 1,0.040,0.044
+Author Sparse 512 w=4,beir/nq,Layer 2,0.018,-0.109
+Author Sparse 512 w=4,beir/nq,Layer 3,0.017,-0.080
+Author Sparse 512 w=4,beir/nq,Layer 4,0.249,0.356
+Author Sparse 512 w=4,beir/nq,Layer 5,0.450,0.704
+Author Sparse 512 w=4,beir/nq,Layer 6,0.496,1.000
+Author Sparse 512 w=4,beir/dbpedia-entity/test,Embeddings,0.073,0.000
+Author Sparse 512 w=4,beir/dbpedia-entity/test,Layer 1,0.082,-0.000
+Author Sparse 512 w=4,beir/dbpedia-entity/test,Layer 2,0.078,-0.042
+Author Sparse 512 w=4,beir/dbpedia-entity/test,Layer 3,0.060,-0.018
+Author Sparse 512 w=4,beir/dbpedia-entity/test,Layer 4,0.239,0.311
+Author Sparse 512 w=4,beir/dbpedia-entity/test,Layer 5,0.399,0.701
+Author Sparse 512 w=4,beir/dbpedia-entity/test,Layer 6,0.406,1.000
+Full Attention,msmarco-passage/trec-dl-2019/judged,Embeddings,0.293,0.000
+Full Attention,msmarco-passage/trec-dl-2019/judged,Layer 1,0.175,-0.039
+Full Attention,msmarco-passage/trec-dl-2019/judged,Layer 2,0.188,-0.023
+Full Attention,msmarco-passage/trec-dl-2019/judged,Layer 3,0.199,-0.027
+Full Attention,msmarco-passage/trec-dl-2019/judged,Layer 4,0.434,0.276
+Full Attention,msmarco-passage/trec-dl-2019/judged,Layer 5,0.700,0.767
+Full Attention,msmarco-passage/trec-dl-2019/judged,Layer 6,0.729,1.000
+Full Attention,msmarco-passage/trec-dl-2020/judged,Embeddings,0.208,0.000
+Full Attention,msmarco-passage/trec-dl-2020/judged,Layer 1,0.110,0.001
+Full Attention,msmarco-passage/trec-dl-2020/judged,Layer 2,0.090,-0.122
+Full Attention,msmarco-passage/trec-dl-2020/judged,Layer 3,0.120,-0.002
+Full Attention,msmarco-passage/trec-dl-2020/judged,Layer 4,0.405,0.311
+Full Attention,msmarco-passage/trec-dl-2020/judged,Layer 5,0.633,0.761
+Full Attention,msmarco-passage/trec-dl-2020/judged,Layer 6,0.680,1.000
+Full Attention,msmarco-passage-v2/trec-dl-2021/judged,Embeddings,0.223,0.000
+Full Attention,msmarco-passage-v2/trec-dl-2021/judged,Layer 1,0.165,-0.059
+Full Attention,msmarco-passage-v2/trec-dl-2021/judged,Layer 2,0.186,-0.067
+Full Attention,msmarco-passage-v2/trec-dl-2021/judged,Layer 3,0.161,-0.023
+Full Attention,msmarco-passage-v2/trec-dl-2021/judged,Layer 4,0.378,0.289
+Full Attention,msmarco-passage-v2/trec-dl-2021/judged,Layer 5,0.614,0.740
+Full Attention,msmarco-passage-v2/trec-dl-2021/judged,Layer 6,0.652,1.000
+Full Attention,msmarco-passage-v2/trec-dl-2022/judged,Embeddings,0.138,0.000
+Full Attention,msmarco-passage-v2/trec-dl-2022/judged,Layer 1,0.103,-0.076
+Full Attention,msmarco-passage-v2/trec-dl-2022/judged,Layer 2,0.101,-0.060
+Full Attention,msmarco-passage-v2/trec-dl-2022/judged,Layer 3,0.103,0.002
+Full Attention,msmarco-passage-v2/trec-dl-2022/judged,Layer 4,0.216,0.232
+Full Attention,msmarco-passage-v2/trec-dl-2022/judged,Layer 5,0.431,0.719
+Full Attention,msmarco-passage-v2/trec-dl-2022/judged,Layer 6,0.501,1.000
+Full Attention,beir/hotpotqa/test,Embeddings,0.057,0.000
+Full Attention,beir/hotpotqa/test,Layer 1,0.048,0.069
+Full Attention,beir/hotpotqa/test,Layer 2,0.044,-0.040
+Full Attention,beir/hotpotqa/test,Layer 3,0.033,-0.018
+Full Attention,beir/hotpotqa/test,Layer 4,0.524,0.345
+Full Attention,beir/hotpotqa/test,Layer 5,0.710,0.730
+Full Attention,beir/hotpotqa/test,Layer 6,0.726,1.000
+Full Attention,beir/nq,Embeddings,0.040,0.000
+Full Attention,beir/nq,Layer 1,0.034,0.032
+Full Attention,beir/nq,Layer 2,0.025,-0.052
+Full Attention,beir/nq,Layer 3,0.027,-0.032
+Full Attention,beir/nq,Layer 4,0.240,0.288
+Full Attention,beir/nq,Layer 5,0.485,0.749
+Full Attention,beir/nq,Layer 6,0.523,1.000
+Full Attention,beir/dbpedia-entity/test,Embeddings,0.073,0.000
+Full Attention,beir/dbpedia-entity/test,Layer 1,0.077,-0.008
+Full Attention,beir/dbpedia-entity/test,Layer 2,0.084,0.009
+Full Attention,beir/dbpedia-entity/test,Layer 3,0.065,0.027
+Full Attention,beir/dbpedia-entity/test,Layer 4,0.205,0.259
+Full Attention,beir/dbpedia-entity/test,Layer 5,0.432,0.724
+Full Attention,beir/dbpedia-entity/test,Layer 6,0.442,1.000
